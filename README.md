@@ -17,3 +17,5 @@ The project provides insights into the factors that influence the price of a fli
 ## Findings:
 The project found that the machine learning model was able to predict the price of a flight with a high degree of accuracy. The model was able to predict the price of a flight within 86% of the accuracy.
 The project also found that the model was able to generalize well to new data. The model was able to predict the price of flights that were not in the training dataset.
+## Conclusion :
+Achieved in developing a model to predict the price of the flight based on the given data with the accuracy of 86.67% (CatBoost Regressor)
